@@ -11,7 +11,7 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
  * @Author: compass
  * @Date: 2021-12-29-19:35
  * @Version:1.0
- * @Description:
+ * @Description:wwwwww
  */
 @SpringBootApplication
 @EnableEurekaClient
